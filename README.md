@@ -4,4 +4,4 @@ Vanilla JS script that dynamically creates a Table of Content based on headings 
 
 Project 7 of [Vanilla JS Academy](https://vanillajsacademy.com/)
 
-[View Demo](https://mashablair.github.io/chars-count/)
+[View Demo](https://mashablair.github.io/dynamic-TOC/)
